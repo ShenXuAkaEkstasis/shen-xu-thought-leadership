@@ -28,6 +28,10 @@ A static, zero-dependency editorial website built as a review preview for a pers
 - CSS-only subtle motion; honors `prefers-reduced-motion`.
 - Mobile menu, arrow-key evidence navigation, escape to close dialogs, and clear focus indicators.
 
+## Media interviews
+
+- [Media Interviews archive](media/interviews/README.md) — third-party interviews, including the Leaders Perception feature on Shen Xu and CATT China.
+
 ## Files
 
 - `index.html` — accessible semantic content and source links
