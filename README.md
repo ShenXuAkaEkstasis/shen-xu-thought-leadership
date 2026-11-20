@@ -32,6 +32,10 @@ A static, zero-dependency editorial website built as a review preview for a pers
 
 - [Media Interviews archive](media/interviews/README.md) — third-party interviews, including the Leaders Perception feature on Shen Xu and CATT China.
 
+## Industry coverage
+
+- [Industry Coverage archive](media/industry-coverage/README.md) — third-party industry articles referencing Shen Xu's AI research and professional recognition, including the AI CERTs feature.
+
 ## Files
 
 - `index.html` — accessible semantic content and source links
