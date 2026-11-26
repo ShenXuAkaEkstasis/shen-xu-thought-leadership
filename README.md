@@ -30,6 +30,8 @@ A static, zero-dependency editorial website built as a review preview for a pers
 
 ## Media interviews
 
+- **November 26, 2026 | South China Morning Post (SCMP)** — [As US and China battle for AI dominance, small fry figure out what works](https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works). In Focus feature by Mark Magnier quoting Shen Xu as an independent AI strategist on US and Chinese AI models, platform integration, information-source differences and operating costs. Independent editorial coverage; not a validation of his research frameworks.
+
 - [Media Interviews archive](media/interviews/README.md) — third-party interviews, including the Leaders Perception feature on Shen Xu and CATT China.
 
 ## Industry coverage
